@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkerTabs", "MarkerTabs\MarkerTabs.csproj", "{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Release|iPhone.Build.0 = Release|iPhone
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C073D89A-F8F5-4AC8-94B7-D9EDE23924FF}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
